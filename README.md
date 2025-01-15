@@ -21,12 +21,3 @@ its performance. The application is a personal project with the intent to develo
 - **HTML & CSS**,  used to style the application
 - **Alpha Vantage**,  a third-party stock market API used to query and receive real-time stock data
 
-## Future Steps
-
-Smartfolio is still in development; I am always looking to expand and improve the project. The roadmap for the future of 
-this application is as follows,
-
-- ~~**Implement Node.js and Express.js** for server-side scripting~~ (Completed 9/16/2021)
-- ~~**Implement a database** for storage and management of portfolio information~~ (Completed 9/16/2021)
-- **Implement user authentication** for identication of the user
-- **Implement graphical representation of portfolio performance** to expand the application's portfolio manager functionality
